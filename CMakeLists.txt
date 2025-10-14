@@ -1,4 +1,3 @@
-#https://github.com/SFML/cmake-sfml-project/blob/master/CMakeLists.txt
 cmake_minimum_required(VERSION 3.27)
 project(Projekt_Gra LANGUAGES CXX)
 
