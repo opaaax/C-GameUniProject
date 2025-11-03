@@ -1,5 +1,5 @@
 ## Overview
-This project was developed for *PJC** classes at the **PJATK**.  
+This project was developed for *PJC* classes at the **PJATK**.  
 It’s a simple **2D game** built entirely in **C++** using the **SFML** library.
 
 ## Core Features  
